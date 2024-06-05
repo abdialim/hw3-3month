@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.container{
+    width: 350px;
+    height: 350px;
+    
+    margin: 100px auto;
+}
+.tempo{
+    display: flex;
+}
+.speed{
+    display: flex;
+}
+.time{
+    display: flex;
+}
+input{
+    width: 450px;
+    height: 50px;
+    border-radius: 36px;
+    padding: 15px;
+}
+.search{
+    display: flex;
+}
+button{
+    border-radius: 15px;
+    background-color: blue;
+    color: white;
+    border: 0;
+}
+.all{
+    margin: 50px;
+}
+p{
+    border: 5px solid blue;
+    padding: 10px;
+    border-radius: 20px solid;
+}
